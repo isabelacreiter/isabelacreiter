@@ -4,7 +4,7 @@
 - English intermediate
 - I'm currently studying Systems Development Analysis at SENAI.
 - I'm participating in the Entra21 2023 program focused on Python and Django at Blusoft.
-- I graduated from SENAI with a degree in Systems Development.
+- I graduated from SENAI with a degree in System Development.
 
 - OBG - Gold medal in the state stage of the Brazilian Geography Olympiad at Unicamp in 2022 and 2023
 - ONHB - Participation in the National Olympiad in Brazilian History at Unicamp in 2022
